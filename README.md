@@ -1,6 +1,6 @@
-- 💬 Hi, I’m AK @ak-blockchain
-- 💻 Currently gaining experience in Solidity/ERC20 projects
-- 📫 Reach me on telegram @ak_pw 
+- 💬 Hi, I’m AK
+- 💻 This is an (archive) of past dApp and Solidity work done for clients
+- 📫 I know operate as Serpentine (corporation) Ltd company
 
 <!---
 ak-blockchain/ak-blockchain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
